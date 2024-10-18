@@ -1,6 +1,5 @@
 import unittest
 from Week2 import NumberIsEven
-
 class TestFunction(unittest.TestCase):
 
     #tests with Odd number
